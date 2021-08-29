@@ -1,7 +1,5 @@
 # main links links
 main:
-  - title: "Publications"
-    url: https://scholar.google.com/citations?user=gSOqIhoAAAAJ&hl=en
 
 #  - title: "Talks"
 #    url: /talks/    
@@ -17,6 +15,9 @@ main:
     
   - title: "CV"
     url: /files/Khyati_Mahajan_CV.pdf
+
+  - title: "Publications"
+    url: https://scholar.google.com/citations?user=gSOqIhoAAAAJ&hl=en
     
 #  - title: "Guide"
 #    url: /markdown/
