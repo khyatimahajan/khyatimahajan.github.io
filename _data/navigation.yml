@@ -18,6 +18,9 @@ main:
 
   - title: "Publications"
     url: https://scholar.google.com/citations?user=gSOqIhoAAAAJ&hl=en
+
+  - title: "Contact Me"
+    url: /pages/contact-me.md
     
 #  - title: "Guide"
 #    url: /markdown/
