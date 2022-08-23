@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Khyati Mahajan"
 title_separator          : "-"
 name                     : &name "Khyati Mahajan"
-description              : &description "PhD CS student at UNCC"
+description              : &description "PhD candidate in CS at UNCC"
 url                      : https://khyatimahajan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "khyatimahajan/khyatimahajan.github.io"
@@ -82,7 +82,7 @@ analytics:
 author:
   name             : "Khyati Mahajan"
   avatar           : "Khyati_Professional_square.jpg"
-  bio              : "PhD CS student at UNCC, studying computational social science and human behavior through social media expression."
+  bio              : "PhD CS student at UNCC, working on multi-party dialogue systems."
   location         : 
   employer         :
   pubmed           : 

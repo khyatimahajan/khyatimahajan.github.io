@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD student studying human behavior through the lens of Natural Language Processing (NLP) methods. I like researching collective behavior and gaining insights into human reactions, especially during crises events + teaching machines to converse with humans meaningfully. I am also interested in how we use emojis to communicate :)
+I'm a PhD candidate studying human behavior through the lens of Natural Language Processing (NLP) methods. I like researching collective behavior and gaining insights into human reactions, especially during crises events + teaching machines to converse with humans meaningfully. I am also interested in how we use emojis to communicate :)
 
 My main PhD focus is studying multi-party, or group conversations. I recently wrote a survey paper detailing available multi-party corpora and what they have been used to study so far. Further work is currently under review.
 
