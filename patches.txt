@@ -1,0 +1,146 @@
+diff --git a/_config.yml b/_config.yml
+index 77ca4ee..72ba710 100644
+--- a/_config.yml
++++ b/_config.yml
+@@ -9,8 +9,8 @@
+ locale                   : "en-US"
+ title                    : "Khyati Mahajan"
+ title_separator          : "-"
+-name                     : &name "Khyati Mahajan"
+-description              : &description "PhD candidate in CS at UNCC"
++name                     : &name "Khyati Mahajan, PhD"
++description              : &description
+ url                      : https://khyatimahajan.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+ baseurl                  : "" # the subpath of your site, e.g. "/blog"
+ repository               : "khyatimahajan/khyatimahajan.github.io"
+@@ -82,7 +82,7 @@ analytics:
+ author:
+   name             : "Khyati Mahajan"
+   avatar           : "Khyati_Professional_square.jpg"
+-  bio              : "PhD CS candidate at UNCC, working on multi-party dialogue systems."
++  bio              : 
+   location         : 
+   employer         :
+   pubmed           : 
+diff --git a/_data/navigation.yml b/_data/navigation.yml
+index abff288..242b6f4 100644
+--- a/_data/navigation.yml
++++ b/_data/navigation.yml
+@@ -4,8 +4,8 @@ main:
+ #  - title: "Talks"
+ #    url: /talks/    
+ 
+-#  - title: "Teaching"
+-#    url: /teaching/    
++ - title: "Teaching"
++   url: /teaching/    
+     
+ #  - title: "Portfolio"
+ #    url: /portfolio/
+diff --git a/_pages/about.md b/_pages/about.md
+index ff78c2b..6797fc6 100644
+--- a/_pages/about.md
++++ b/_pages/about.md
+@@ -8,10 +8,4 @@ redirect_from:
+   - /about.html
+ ---
+ 
+-I'm a PhD candidate studying human behavior through the lens of Natural Language Processing (NLP) methods. I like researching collective behavior and gaining insights into human reactions, especially during crises events + teaching machines to converse with humans meaningfully. I am also interested in how we use emojis to communicate :)
+-
+-My main PhD focus is studying multi-party, or group conversations. I recently wrote a survey paper detailing available multi-party corpora and what they have been used to study so far. Further work is currently under review.
+-
+-My other projects include studying opinions expressed online through social media using computational social science methods and NLP as a part of a multi-phase interdisciplinary project at UNC Charlotte. I have also worked on identifying hate speech (and hope speech) on social media.
+-
+-I was a Graduate Life Ambassador (2020-2021) and Graduate Life Fellow (2021-2022) at UNC Charlotte. I am an active founding member of the Club for AI Research. [Join us](https://ninerengage.uncc.edu/organization/cair) if you are looking to discuss topics related to Natural Language Processing, Computer Vision, Robotics, Machine Learning and Artificial Intelligence.
+\ No newline at end of file
++My interests lie in the field of Natural Language Processing, now commonly known as GenAI. I hold a PhD in the field from the University of North Carolina at Charlotte. My projects are available on my [Github](https://github.com/khyatimahajan). Learn more about me on [LinkedIn](https://www.linkedin.com/in/khyati-mahajan). 
+\ No newline at end of file
+diff --git a/_teaching/2014-spring-teaching-1.md b/_teaching/2014-spring-teaching-1.md
+deleted file mode 100644
+index e354740..0000000
+--- a/_teaching/2014-spring-teaching-1.md
++++ /dev/null
+@@ -1,20 +0,0 @@
+----
+-title: "Teaching experience 1"
+-collection: teaching
+-type: "Undergraduate course"
+-permalink: /teaching/2014-spring-teaching-1
+-venue: "University 1, Department"
+-date: 2014-01-01
+-location: "City, Country"
+----
+-
+-This is a description of a teaching experience. You can use markdown like any other post.
+-
+-Heading 1
+-======
+-
+-Heading 2
+-======
+-
+-Heading 3
+-======
+\ No newline at end of file
+diff --git a/_teaching/2015-spring-teaching-2.md b/_teaching/2015-spring-teaching-2.md
+deleted file mode 100644
+index 58e1ddb..0000000
+--- a/_teaching/2015-spring-teaching-2.md
++++ /dev/null
+@@ -1,20 +0,0 @@
+----
+-title: "Teaching experience 2"
+-collection: teaching
+-type: "Workshop"
+-permalink: /teaching/2015-spring-teaching-1
+-venue: "University 1, Department"
+-date: 2015-01-01
+-location: "City, Country"
+----
+-
+-This is a description of a teaching experience. You can use markdown like any other post.
+-
+-Heading 1
+-======
+-
+-Heading 2
+-======
+-
+-Heading 3
+-======
+diff --git a/_teaching/2023-spring-itcs-5122-visual-analytics.md b/_teaching/2023-spring-itcs-5122-visual-analytics.md
+new file mode 100644
+index 0000000..85b24d2
+--- /dev/null
++++ b/_teaching/2023-spring-itcs-5122-visual-analytics.md
+@@ -0,0 +1,26 @@
++---
++title: "Instructional Teaching Assistant for ITCS 5122 Visual Analytics"
++collection: teaching
++type: "Graduate course"
++permalink: /teaching/2023-spring-itcs-5122-visual-analytics
++venue: "University of North Carolina at Charlotte"
++date: 2023-01-06
++location: "Charlotte, USA"
++---
++
++I created and taught tutorials for this course led by Dr. Jing Yang at UNC Charlotte for Visual Analytics. Here are the details:
++
++Tableau
++======
++- Making basic visualizations ie bar chart, line graph, pie chart etc with details on when to use what and how to style graphs to maximize takeaways while minimizing details on the viz.
++- Conducting data summarization operations such as aggregation and joining datasets to build on available information.
++- Creating dashboards and stories to provide a complete picture of data.
++- Created short videos (Tableau Shorts) to show students how to prevent publishing private datasets when publishing dashboards to Tableau Cloud, and create Calculated Fields, Search Parameter, Dual Sync Axes, Highlight Menu.
++
++Data Prcoessing with Python
++======
++Taught primer on how to utilize pandas and seaborn to perform complex data analysis tasks including all that can be done with Tableau.
++
++Assignments and Grading
++======
++Created assignments and graded multiple for over 70 students in the class.
+\ No newline at end of file
+diff --git a/files/Khyati_Mahajan_CV.pdf b/files/Khyati_Mahajan_CV.pdf
+index b468b4c..83baf82 100644
+Binary files a/files/Khyati_Mahajan_CV.pdf and b/files/Khyati_Mahajan_CV.pdf differ
