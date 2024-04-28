@@ -1,0 +1,26 @@
+---
+title: "Instructional Teaching Assistant for ITCS 5122 Visual Analytics"
+collection: teaching
+type: "Graduate course"
+permalink: /teaching/2023-spring-itcs-5122-visual-analytics
+venue: "University of North Carolina at Charlotte"
+date: 2023-01-06
+location: "Charlotte, USA"
+---
+
+I created and taught tutorials for this course led by Dr. Jing Yang at UNC Charlotte for Visual Analytics. Here are the details:
+
+Tableau
+======
+- Making basic visualizations ie bar chart, line graph, pie chart etc with details on when to use what and how to style graphs to maximize takeaways while minimizing details on the viz.
+- Conducting data summarization operations such as aggregation and joining datasets to build on available information.
+- Creating dashboards and stories to provide a complete picture of data.
+- Created short videos (Tableau Shorts) to show students how to prevent publishing private datasets when publishing dashboards to Tableau Cloud, and create Calculated Fields, Search Parameter, Dual Sync Axes, Highlight Menu.
+
+Data Prcoessing with Python
+======
+Taught primer on how to utilize pandas and seaborn to perform complex data analysis tasks including all that can be done with Tableau.
+
+Assignments and Grading
+======
+Created assignments and graded multiple for over 70 students in the class.

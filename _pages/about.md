@@ -8,10 +8,4 @@ redirect_from:
   - /about.html
 ---
 
-I'm a PhD candidate studying human behavior through the lens of Natural Language Processing (NLP) methods. I like researching collective behavior and gaining insights into human reactions, especially during crises events + teaching machines to converse with humans meaningfully. I am also interested in how we use emojis to communicate :)
-
-My main PhD focus is studying multi-party, or group conversations. I recently wrote a survey paper detailing available multi-party corpora and what they have been used to study so far. Further work is currently under review.
-
-My other projects include studying opinions expressed online through social media using computational social science methods and NLP as a part of a multi-phase interdisciplinary project at UNC Charlotte. I have also worked on identifying hate speech (and hope speech) on social media.
-
-I was a Graduate Life Ambassador (2020-2021) and Graduate Life Fellow (2021-2022) at UNC Charlotte. I am an active founding member of the Club for AI Research. [Join us](https://ninerengage.uncc.edu/organization/cair) if you are looking to discuss topics related to Natural Language Processing, Computer Vision, Robotics, Machine Learning and Artificial Intelligence.
+My interests lie in the field of Natural Language Processing, now commonly known as GenAI. I hold a PhD in the field from the University of North Carolina at Charlotte. My projects are available on my [Github](https://github.com/khyatimahajan). Learn more about me on [LinkedIn](https://www.linkedin.com/in/khyati-mahajan). 
