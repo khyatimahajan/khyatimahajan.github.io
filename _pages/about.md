@@ -1,11 +1,13 @@
 ---
 permalink: /
-title: "Hello!"
-excerpt: "About Me"
+title: ""
+excerpt: "About"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-My interests lie in the field of Natural Language Processing, now commonly known as GenAI. I hold a PhD in the field from the University of North Carolina at Charlotte. My projects are available on my [Github](https://github.com/khyatimahajan). Learn more about me on [LinkedIn](https://www.linkedin.com/in/khyati-mahajan). 
+Khyati Mahajan is a Senior Applied Research Scientist at ServiceNow, working on enterprise Generative AI.
+
+Khyati holds a PhD in Computing and Informatics and MS in Computer Science with a focus on Artifical Intelligence from the University of North Carolina at Charlotte. Her contributions can be viewed on her [Scholar](https://www.semanticscholar.org/author/Khyati-Mahajan/73124063) profile. Her [LinkedIn](https://wwww.linkedin.com/in/khyati-mahajan) profile showcases her achievements and involvement with the community.
