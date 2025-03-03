@@ -86,8 +86,8 @@ author:
   location         : 
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com/citations?user=gSOqIhoAAAAJ&hl=en"
-  email            : "kmahaja2@uncc.edu"
+  googlescholar    : "https://scholar.google.com/citations?user=g34dj5IAAAAJ&hl=en&oi=ao"
+  email            : "kmahaja2@alumni.uncc.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
   bitbucket        :
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "mahajan_khyati"
+  twitter          :
   vine             :
   weibo            :
   xing             :
