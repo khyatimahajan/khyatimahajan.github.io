@@ -1,17 +1,22 @@
 # main links links
 main:
 
-  - title: "Teaching"
-    url: /teaching/    
-        
-  - title: "Journal"
-    url: /year-archive/
+  - title: "LinkedIn"
+    url: https://www.linkedin.com/in/khyati-mahajan
     
   - title: "CV"
     url: /files/Khyati_Mahajan_CV.pdf
 
   - title: "Publications"
     url: https://www.semanticscholar.org/author/Khyati-Mahajan/73124063
+  
+  - title: "Teaching"
+    url: /teaching/
+
+  - title: "Contact Form"
+    url: https://forms.office.com/r/iaeRenQkwJ
+
+  
     
 #  - title: "Guide"
 #    url: /markdown/
